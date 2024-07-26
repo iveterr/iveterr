@@ -1,4 +1,13 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 💙💙
+Meu nome é Ivete Santos
+
+Estou estudando na Alura
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+Você pode entrar em contato comigo 📫
+santos.silva.ivete@escola.pr.gov.br
+
+@alurastartestudante
 
 <!--
 **iveterr/iveterr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
